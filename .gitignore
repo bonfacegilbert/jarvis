@@ -1,0 +1,16 @@
+# Secrets — never commit the real config
+jarvis_config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller build output
+dist/
+build/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
